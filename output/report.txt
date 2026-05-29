@@ -1,0 +1,16 @@
+
+========== RESUME ANALYSIS REPORT ==========
+
+Candidate Name: Bob Brown
+Candidate Email: bob@example.com
+
+Skills: ['HTML', 'CSS']
+Experience: 1 years
+
+Matched Skills: []
+Missing Skills: ['Python', 'SQL', 'Docker']
+
+Match Score: 0.0%
+Recommendation: Not Recommended
+
+============================================
